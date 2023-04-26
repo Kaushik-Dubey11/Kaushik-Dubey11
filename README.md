@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kaushik Dubey
+- 👋 Hi, I’m **Kaushik Dubey**
 - 👀 I’m a data enthusiast
-- 🌱 I like to solve Business problems with tableau,SQL & Excel
+- 🌱 I like to solve business problems with **Tableau,SQL & Excel**
 
 
 <!---
