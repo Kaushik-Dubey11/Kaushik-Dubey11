@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Kaushik**
 - 👀 I’m a data enthusiast
-- 🌱 I like to solve business problems with **Power BI,SQL & Excel**
+- 🌱 I like to solve business problems with **Power BI, SQL & Excel**
 
 
 <!---
